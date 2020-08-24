@@ -1,0 +1,6 @@
+*.py[cod]
+build
+jwrap*so
+jwrap.cpp
+jwrap.html
+secret*
